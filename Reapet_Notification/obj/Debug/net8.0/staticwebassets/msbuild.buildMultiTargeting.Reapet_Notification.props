@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Reapet_Notification.props" />
+</Project>

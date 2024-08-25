@@ -1,0 +1,13 @@
+﻿POST http://localhost:5001/api/EMails
+Content-Type: application/json
+
+{
+  "to": "hakimah@code.edu.az",
+  "from": "hakimah@code.edu.az",
+  "bcc": "hakimah@code.edu.az",
+  "cc": "hakimah@code.edu.az",
+  "subject": "Test Mail",
+  "body": "Mail Test olarak gönderilmiştir",
+  "attachments": []
+}
+  

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|c:\\users\\77upt\\desktop\\tekrar\\repeat\\notification\\reapet_notification\\reapet_notification\\reapet_notification.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|solutionrelative:reapet_notification\\reapet_notification.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|c:\\users\\77upt\\desktop\\tekrar\\repeat\\notification\\reapet_notification\\reapet_notification\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|solutionrelative:reapet_notification\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|c:\\users\\77upt\\desktop\\tekrar\\repeat\\notification\\reapet_notification\\reapet_notification\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|solutionrelative:reapet_notification\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|c:\\users\\77upt\\desktop\\tekrar\\repeat\\notification\\reapet_notification\\reapet_notification\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|solutionrelative:reapet_notification\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FF339-AEB3-4F7D-8F6D-DB6C65568B53}|Shared\\Shared.csproj|c:\\users\\77upt\\desktop\\tekrar\\repeat\\notification\\reapet_notification\\shared\\dtos\\emails\\emaildtobody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FF339-AEB3-4F7D-8F6D-DB6C65568B53}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\emails\\emaildtobody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|c:\\users\\77upt\\desktop\\tekrar\\repeat\\notification\\reapet_notification\\reapet_notification\\models\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD807F-1451-4374-87A3-A4DEB0BFE458}|Reapet_Notification\\Reapet_Notification.csproj|solutionrelative:reapet_notification\\models\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reapet_Notification.http",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Reapet_Notification.http",
+              "RelativeDocumentMoniker": "Reapet_Notification\\Reapet_Notification.http",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Reapet_Notification.http",
+              "RelativeToolTip": "Reapet_Notification\\Reapet_Notification.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-25T12:10:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "Reapet_Notification\\Services\\IMailService.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Services\\IMailService.cs",
+              "RelativeToolTip": "Reapet_Notification\\Services\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:08:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailBody.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Models\\EmailBody.cs",
+              "RelativeDocumentMoniker": "Reapet_Notification\\Models\\EmailBody.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Models\\EmailBody.cs",
+              "RelativeToolTip": "Reapet_Notification\\Models\\EmailBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:05:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailDtoBody.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Shared\\Dtos\\Emails\\EmailDtoBody.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\Emails\\EmailDtoBody.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Shared\\Dtos\\Emails\\EmailDtoBody.cs",
+              "RelativeToolTip": "Shared\\Dtos\\Emails\\EmailDtoBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:04:24.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMailsController.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Controllers\\EMailsController.cs",
+              "RelativeDocumentMoniker": "Reapet_Notification\\Controllers\\EMailsController.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Controllers\\EMailsController.cs",
+              "RelativeToolTip": "Reapet_Notification\\Controllers\\EMailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:56:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "Reapet_Notification\\Services\\MailService.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Tekrar\\Repeat\\Notification\\Reapet_Notification\\Reapet_Notification\\Services\\MailService.cs",
+              "RelativeToolTip": "Reapet_Notification\\Services\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:50:12.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
